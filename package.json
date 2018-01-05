@@ -1,0 +1,12 @@
+{
+  "name": "testSomethingWithParcel",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/a13821190779/testSomethingWithParcel.git",
+  "author": "fox",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
